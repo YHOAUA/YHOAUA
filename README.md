@@ -26,6 +26,8 @@
 
 ###### **hold me...**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YHOAUANN)](https://github.com/YHOAUANN/github-readme-stats)
+
 
 
 
