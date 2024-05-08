@@ -11,7 +11,7 @@
   
 <!-- https://github.com/tandpfun/skill-icons -->
 <p align="center">
-  <span style="color: #8B949E;">Skills</span>
+  Skills
   <br/>
   <br/>
   <img align="center" src="https://skillicons.dev/icons?i=java,mysql,c,cs,cpp,qt,py,github,godot,unreal,vscode,visualstudio,linux,windows,md&theme=light" />
