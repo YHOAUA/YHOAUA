@@ -10,7 +10,8 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=YHOAUANN&theme=github-compact&hide_border=true&area=true" />
   
 <!-- https://github.com/tandpfun/skill-icons -->
-<p>
+<p align="center">
   Skills:
+  <br/>
   <img align="center" src="https://skillicons.dev/icons?i=java,mysql,c,cs,cpp,qt,py,github,godot,unreal,vscode,visualstudio,linux,windows,md&theme=light" />
 </p>
