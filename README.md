@@ -8,5 +8,6 @@
 <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YHOAUANN" />
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=YHOAUANN&theme=github-compact&hide_border=true&area=true" />
+  
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=java,mysql,redis,c,cs,cpp,qt,py,github,godot,unreal,vscode,visualstudio,neovim,linux,windows,kali,ubuntu,obsidian,md,pr,ae,au,ps&theme=light" />
