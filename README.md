@@ -5,4 +5,4 @@
 <!-- https://github.com/kyechan99/capsule-render](https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=YHOAUANN&theme=transparent&show_icons=true&hide_border=true" />
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YHOAUANN&bg_color=0d1117&color=fafcff&line=26a641&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yhoauann&bg_color=0d1117&color=ffffff&line=26a641&point=ffffff&area=true&hide_border=true" />
