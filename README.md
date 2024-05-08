@@ -5,7 +5,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=YHOAUANN&theme=transparent&show_icons=true&hide_border=true" />
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YHOAUANN" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YHOAUANN"&theme=transparent&show_icons=true&hide_border=true" />
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=YHOAUANN&theme=github-compact&hide_border=true&area=true" />
   
@@ -14,7 +14,7 @@
   Skills
   <br/>
   <br/>
-  <img align="center" src="https://skillicons.dev/icons?i=java,mysql,c,cs,cpp,qt,py&theme=light" />
+  <img align="center" src="https://skillicons.dev/icons?i=,mysql,c,cs,cpp,qt,javapy&theme=light" />
   <br/>
   <br/>
   <img align="center" src="https://skillicons.dev/icons?i=github,godot,unreal,vscode,visualstudio,linux,windows,md&theme=light" />
